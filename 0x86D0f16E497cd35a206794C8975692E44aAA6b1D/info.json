@@ -1,0 +1,11 @@
+{ 
+"name": "aiapple",
+"website": "https://aiapple.app/",
+"description": "aiapple: The future Meme Coin. ",
+"explorer": "https://bscscan.com/token/0x86d0f16e497cd35a206794c8975692e44aaa6b1d",
+"type": "BEP20",
+"symbol": "aiapple",
+"decimals": 18,
+"status": "active",
+"id": "0x86D0f16E497cd35a206794C8975692E44aAA6b1D"
+}
